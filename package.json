@@ -22,7 +22,7 @@
     "cors": "^2.8.5",
     "graphql": "^15.0.0",
     "graphql-tag": "^2.10.3",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "quasar": "^1.10.0",
     "vue-apollo": "^3.0.3",
     "vue-i18n": "^8.0.0",
